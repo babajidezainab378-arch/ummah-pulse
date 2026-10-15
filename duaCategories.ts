@@ -1,0 +1,15 @@
+export const DUA_CATEGORIES: string[] = [
+  "Forgiveness",
+  "Guidance",
+  "Parents",
+  "Knowledge",
+  "Rizq",
+  "Marriage",
+  "Hardship",
+  "Worry",
+  "The Ummah",
+  "Ramadan",
+  "Laylatul Qadr",
+  "Travel",
+  "Protection",
+];
